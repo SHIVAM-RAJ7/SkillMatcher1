@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot (819)" src="https://github.com/user-attachments/assets/000b2f8c-4aef-4cc7-9c7a-b2f123e3d071" />
+<img width="1920" height="1080" alt="Screenshot (821)" src="https://github.com/user-attachments/assets/05a5bfaf-2dfc-4cd5-b32a-51abafbd82d3" />
+<img width="1920" height="1080" alt="Screenshot (827)" src="https://github.com/user-attachments/assets/bc0e402d-90e6-43e0-984f-1d1ca78245fb" />
+<img width="727" height="172" alt="skills" src="https://github.com/user-attachments/assets/329c50d7-911f-4da3-9e89-c3c43e10762a" />
+<img width="780" height="781" alt="Overview" src="https://github.com/user-attachments/assets/e781b2e6-0d87-44c7-9fb4-770f88f3c2c9" />
+
 # Title of Project: SkillMatcher
 
 ## Team Members:
