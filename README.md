@@ -23,6 +23,26 @@
 6. run pip install -r requirements.txt
 7  run python produce.py
 
+The Automated Skill Matcher is an AI-driven recruitment and resume analysis platform designed to bridge the gap between candidate profiles and real-world job requirements using modern NLP and graph-based data systems. The project combines transformer-based language models with scalable backend infrastructure to create an intelligent pipeline for automated skill extraction, job matching, and recommendation.
+
+At the core of the system is a fine-tuned BERT-based Named Entity Recognition (NER) model that extracts both technical and soft skills directly from resumes. Instead of relying on keyword matching, the model understands contextual relationships within resume text, enabling more accurate identification of competencies, tools, and domain expertise. Job descriptions are dynamically scraped and processed from online sources, allowing the platform to continuously update and compare candidate profiles against current industry demands.
+
+To model relationships between candidates, skills, and job postings, the system integrates Neo4j as a graph database. This graph-oriented architecture enables efficient similarity analysis and intelligent recommendation pathways that go beyond traditional relational matching systems. PostgreSQL is used for structured storage, while RabbitMQ manages asynchronous communication between services, ensuring scalability and real-time processing.
+
+The application was containerized using Docker Compose to simplify deployment and orchestration across multiple services. A React and TypeScript-based frontend dashboard provides users with a responsive interface to upload resumes, monitor extracted skills, and view job compatibility insights in real time and get live job postings as per your Resume scraped live from LinkedIN, Glassdoor etc.
+
+The project demonstrates practical experience in:
+
+Natural Language Processing (NLP)
+Transformer models and BERT fine-tuning
+Named Entity Recognition (NER)
+Graph databases using Neo4j
+Backend system design and asynchronous pipelines
+Docker-based deployment and microservice orchestration
+Full-stack development using React and TypeScript
+
+This project was developed as a real-world intelligent recruitment solution with a strong focus on scalability, automation, and semantic understanding of candidate-job alignment.
+
 ## Checklist:
 1. Final Project Report
 2. Certificate VII Semester (Dated: December 2024).
